@@ -1,0 +1,21 @@
+Script started on Sat Dec 11 13:56:21 2021
+bash-3.2$ mkdir folder1
+bash-3.2$ mkdir folder2
+bash-3.2$ touch file1.txt
+bash-3.2$ touch file2.txt
+bash-3.2$ touch file3.txt
+bash-3.2$ mv file1 f  .txt folder1
+bash-3.2$ mc   v file2.txt folder2
+bash-3.2$ cd folder1
+bash-3.2$ pwd
+/Users/marykazangarare/unit-01-command-line-and-git-assessment-tanatswak/folder1
+bash-3.2$ ls
+file1.txt
+bash-3.2$ pwd
+/Users/marykazangarare/unit-01-command-line-and-git-assessment-tanatswak/folder1
+bash-3.2$ cd ..
+bash-3.2$ rm file3.txt
+bash-3.2$ exit
+exit
+
+Script done on Sat Dec 11 14:00:46 2021
